@@ -2,6 +2,10 @@ C:\Users\badim\Desktop\lapaceFiltration\LapaceFiltration\bin\x64\Debug\LapaceFil
 C:\Users\badim\Desktop\lapaceFiltration\LapaceFiltration\bin\x64\Debug\LapaceFiltration.exe
 C:\Users\badim\Desktop\lapaceFiltration\LapaceFiltration\bin\x64\Debug\LapaceFiltration.pdb
 C:\Users\badim\Desktop\lapaceFiltration\LapaceFiltration\obj\x64\Debug\LaplaceFilter.csproj.AssemblyReference.cache
+<<<<<<< HEAD
+=======
+C:\Users\badim\Desktop\lapaceFiltration\LapaceFiltration\obj\x64\Debug\LaplaceFilter.csproj.SuggestedBindingRedirects.cache
+>>>>>>> origin/main
 C:\Users\badim\Desktop\lapaceFiltration\LapaceFiltration\obj\x64\Debug\LapaceFiltration.Properties.Resources.resources
 C:\Users\badim\Desktop\lapaceFiltration\LapaceFiltration\obj\x64\Debug\LaplaceFilter.csproj.GenerateResource.cache
 C:\Users\badim\Desktop\lapaceFiltration\LapaceFiltration\obj\x64\Debug\LaplaceFilter.csproj.CoreCompileInputs.cache
