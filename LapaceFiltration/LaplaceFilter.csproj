@@ -22,10 +22,7 @@
     <DefineConstants>DEBUG;TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
-<<<<<<< HEAD
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
-=======
->>>>>>> origin/main
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
@@ -35,10 +32,7 @@
     <DefineConstants>TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
-<<<<<<< HEAD
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
-=======
->>>>>>> origin/main
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
     <DebugSymbols>true</DebugSymbols>
@@ -49,10 +43,7 @@
     <LangVersion>7.3</LangVersion>
     <ErrorReport>prompt</ErrorReport>
     <Prefer32Bit>true</Prefer32Bit>
-<<<<<<< HEAD
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
-=======
->>>>>>> origin/main
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
     <OutputPath>bin\x64\Release\</OutputPath>
@@ -63,10 +54,7 @@
     <LangVersion>7.3</LangVersion>
     <ErrorReport>prompt</ErrorReport>
     <Prefer32Bit>true</Prefer32Bit>
-<<<<<<< HEAD
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
-=======
->>>>>>> origin/main
   </PropertyGroup>
   <PropertyGroup>
     <StartupObject />

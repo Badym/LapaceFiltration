@@ -1,7 +1,2 @@
-<<<<<<< HEAD
 ﻿     Trwa tworzenie biblioteki C:\Users\badim\Desktop\lapaceFiltration\LapaceFiltration\x64\Debug\JAAsm.lib i obiektu C:\Users\badim\Desktop\lapaceFiltration\LapaceFiltration\x64\Debug\JAAsm.exp
-=======
-﻿  Assembling JAAsm.asm...
-     Trwa tworzenie biblioteki C:\Users\badim\Desktop\lapaceFiltration\LapaceFiltration\x64\Debug\JAAsm.lib i obiektu C:\Users\badim\Desktop\lapaceFiltration\LapaceFiltration\x64\Debug\JAAsm.exp
->>>>>>> origin/main
   JAAsm.vcxproj -> C:\Users\badim\Desktop\lapaceFiltration\LapaceFiltration\x64\Debug\JAAsm.dll
