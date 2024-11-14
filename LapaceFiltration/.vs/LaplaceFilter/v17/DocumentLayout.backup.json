@@ -1,0 +1,142 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\badim\\Desktop\\lapaceFiltration\\LapaceFiltration\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5BE60DE6-2804-485B-8DDF-9E599AC3E17A}|LaplaceFilter.csproj|c:\\users\\badim\\desktop\\lapacefiltration\\lapacefiltration\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BE60DE6-2804-485B-8DDF-9E599AC3E17A}|LaplaceFilter.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|LaplaceFilter||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3622C946-EC77-4ADA-A111-918A05AC1E6A}|..\\JAcpp\\JAcpp.vcxproj|C:\\Users\\badim\\Desktop\\lapaceFiltration\\JAcpp\\fun.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C8E7E12-E9FA-43B3-9D53-A1E368338546}|..\\JAAsm\\JAAsm.vcxproj|C:\\Users\\badim\\Desktop\\lapaceFiltration\\JAAsm\\JAAsm.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C8E7E12-E9FA-43B3-9D53-A1E368338546}|..\\JAAsm\\JAAsm.vcxproj|C:\\Users\\badim\\Desktop\\lapaceFiltration\\JAAsm\\JAAsm.def||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BE60DE6-2804-485B-8DDF-9E599AC3E17A}|LaplaceFilter.csproj|C:\\Users\\badim\\Desktop\\lapaceFiltration\\LapaceFiltration\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BE60DE6-2804-485B-8DDF-9E599AC3E17A}|LaplaceFilter.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BE60DE6-2804-485B-8DDF-9E599AC3E17A}|LaplaceFilter.csproj|C:\\Users\\badim\\Desktop\\lapaceFiltration\\LapaceFiltration\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5BE60DE6-2804-485B-8DDF-9E599AC3E17A}|LaplaceFilter.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BE60DE6-2804-485B-8DDF-9E599AC3E17A}|LaplaceFilter.csproj|c:\\users\\badim\\desktop\\lapacefiltration\\lapacefiltration\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|a54ad834-9219-4aa6-b589-607af21c3e26"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "fun.cpp",
+              "DocumentMoniker": "C:\\Users\\badim\\Desktop\\lapaceFiltration\\JAcpp\\fun.cpp",
+              "RelativeDocumentMoniker": "..\\JAcpp\\fun.cpp",
+              "ToolTip": "C:\\Users\\badim\\Desktop\\lapaceFiltration\\JAcpp\\fun.cpp",
+              "RelativeToolTip": "..\\JAcpp\\fun.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-30T14:28:06.067Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\badim\\Desktop\\lapaceFiltration\\LapaceFiltration\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\badim\\Desktop\\lapaceFiltration\\LapaceFiltration\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAAwIIAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T14:18:12.301Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JAAsm.asm",
+              "DocumentMoniker": "C:\\Users\\badim\\Desktop\\lapaceFiltration\\JAAsm\\JAAsm.asm",
+              "RelativeDocumentMoniker": "..\\JAAsm\\JAAsm.asm",
+              "ToolTip": "C:\\Users\\badim\\Desktop\\lapaceFiltration\\JAAsm\\JAAsm.asm",
+              "RelativeToolTip": "..\\JAAsm\\JAAsm.asm",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-14T14:08:37.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JAAsm.def",
+              "DocumentMoniker": "C:\\Users\\badim\\Desktop\\lapaceFiltration\\JAAsm\\JAAsm.def",
+              "RelativeDocumentMoniker": "..\\JAAsm\\JAAsm.def",
+              "ToolTip": "C:\\Users\\badim\\Desktop\\lapaceFiltration\\JAAsm\\JAAsm.def",
+              "RelativeToolTip": "..\\JAAsm\\JAAsm.def",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001913|",
+              "WhenOpened": "2024-11-14T14:08:35.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LaplaceFilter",
+              "DocumentMoniker": "C:\\Users\\badim\\Desktop\\lapaceFiltration\\LapaceFiltration\\LaplaceFilter.csproj",
+              "RelativeDocumentMoniker": "LaplaceFilter.csproj",
+              "ToolTip": "C:\\Users\\badim\\Desktop\\lapaceFiltration\\LapaceFiltration\\LaplaceFilter.csproj",
+              "RelativeToolTip": "LaplaceFilter.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-14T13:47:23.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\badim\\Desktop\\lapaceFiltration\\LapaceFiltration\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\badim\\Desktop\\lapaceFiltration\\LapaceFiltration\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T17:07:10.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Projekt]",
+              "DocumentMoniker": "C:\\Users\\badim\\Desktop\\lapaceFiltration\\LapaceFiltration\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\badim\\Desktop\\lapaceFiltration\\LapaceFiltration\\Form1.cs [Projekt]",
+              "RelativeToolTip": "Form1.cs [Projekt]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T17:07:20.072Z",
+              "EditorCaption": " [Projekt]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
